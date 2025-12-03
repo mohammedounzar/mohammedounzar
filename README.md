@@ -2,56 +2,11 @@
 **Software Engineer · DevOps Engineer · Data Engineering Enthusiast**
 
 <!-- ========= Animated SVG Hero ========= -->
-<svg width="100%" height="240" viewBox="0 0 1200 240" preserveAspectRatio="xMidYMid slice" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0" x2="1">
-      <stop offset="0" stop-color="#0f172a"/>
-      <stop offset="1" stop-color="#071021"/>
-    </linearGradient>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96F7&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Junior+Backend+Engineer;AI+and+Data+Engineering+Enthusiast;Always+learning+new+things)](https://git.io/typing-svg)
 
-    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="10" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-  </defs>
-
-  <rect width="1200" height="240" fill="url(#bg)" rx="12"/>
-
-  <!-- Orb elements -->
-  <g opacity="0.12" transform="translate(120,60)">
-    <circle cx="0" cy="0" r="70" fill="#00bcd4">
-      <animate attributeName="r" values="70;75;70" dur="6s" repeatCount="indefinite"/>
-    </circle>
-  </g>
-
-  <g opacity="0.10" transform="translate(1080,160)">
-    <circle cx="0" cy="0" r="60" fill="#7c4dff">
-      <animate attributeName="r" values="60;66;60" dur="7s" repeatCount="indefinite"/>
-    </circle>
-  </g>
-
-  <!-- Name -->
-  <text x="60" y="78" font-family="Inter, Helvetica, monospace" font-weight="700" font-size="40" fill="#ffffff">
-    Mohammed Ounzar
-  </text>
-
-  <text x="60" y="110" font-family="Inter, Helvetica, monospace" font-weight="500" font-size="16" fill="#a8b3c7">
-    Software Engineering student • ENSIAS & ENSIIE • DevOps & ML Practitioner
-  </text>
-
-  <!-- Role Carousel -->
-  <g transform="translate(60,150)" font-family="Courier, monospace" font-size="20">
-    <text id="r1" x="0" y="0" fill="#c3f0ff" opacity="0">🧑‍💻 Software Engineer</text>
-    <text id="r2" x="0" y="0" fill="#ffd7a8" opacity="0">⚙️ DevOps Engineer</text>
-    <text id="r3" x="0" y="0" fill="#b8ffd6" opacity="0">🗄️ Data Engineering Enthusiast</text>
-    <text id="r4" x="0" y="0" fill="#f2c1ff" opacity="0">📚 Always Learning</text>
-
-    <animate xlink:href="#r1" attributeName="opacity" values="0;1;1;0" dur="9s" begin="0s" repeatCount="indefinite"/>
-    <animate xlink:href="#r2" attributeName="opacity" values="0;0;1;1;0" dur="9s" begin="0s" repeatCount="indefinite" keyTimes="0;0.25;0.35;0.7;1"/>
-    <animate xlink:href="#r3" attributeName="opacity" values="0;0;0;1;1;0" dur="9s" begin="0s" repeatCount="indefinite" keyTimes="0;0.45;0.55;0.75;0.95;1"/>
-    <animate xlink:href="#r4" attributeName="opacity" values="0;0;0;0;1;0" dur="9s" begin="0s" repeatCount="indefinite" keyTimes="0;0.6;0.7;0.8;0.95;1"/>
-  </g>
-</svg>
+</div>
 
 ---
 
@@ -71,32 +26,63 @@ I'm actively looking for a **PFE internship (starting February)** in **Software 
 
 ## 🧰 Tech Stack
 
+## 🧰 Tech Stack
+
 ### **Languages**
-- Python, Java, JavaScript, PHP, SQL, Bash, Apex
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apex-1797c1?style=for-the-badge&logo=salesforce&logoColor=white"/>
+</p>
+
+---
 
 ### **Frameworks & Libraries**
-- Spring Boot, Laravel, React.js, Flask  
-- HuggingFace, LLaMA 2, OCR systems  
-- Android Studio (Java)
+<p>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FCC72C?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LLaMA%202-FF9900?style=for-the-badge&logo=meta&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OCR-6A5ACD?style=for-the-badge&logo=tesseract&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+</p>
+
+---
 
 ### **Databases**
-- PostgreSQL, MySQL, Oracle  
-- MongoDB, Elasticsearch  
-- Data Warehouse concepts
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+</p>
+
+---
 
 ### **DevOps & Cloud Tools**
-- Docker, Kubernetes  
-- Jenkins, GitHub Actions, GitLab CI  
-- ELK Stack (Elasticsearch, Logstash, Kibana)  
-- Unix/Linux systems  
-- Microservices Architecture
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microservices-00ADD8?style=for-the-badge&logo=microgenetics&logoColor=white"/>
+</p>
 
 ---
 
 ## 💼 Professional Experience
 
 ### **DevOps Engineering Intern — D&A Technologies**  
-📍 Casablanca, Morocco — *June 2025 → August 2025*  
 - Automated deployment monitoring per ticket using Dockerized Python scripts  
 - Implemented GitHub Actions steps for PR validation on UAT branch  
 - Worked with Salesforce DX, Docker, Git, Linux, Apex  
@@ -104,7 +90,6 @@ I'm actively looking for a **PFE internship (starting February)** in **Software 
 ---
 
 ### **AI/NLP Engineering Intern — Trésorerie Générale du Royaume**  
-📍 Rabat, Morocco — *July 2024 → August 2024*  
 - Built a chatbot powered by **LLaMA 2 + RAG** to extract information from PDFs  
 - Designed embeddings, indexing, and query analysis pipeline  
 - Used Python, HuggingFace, Google Colab  
@@ -140,7 +125,7 @@ I'm actively looking for a **PFE internship (starting February)** in **Software 
 ## 🤝 Let’s Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mohammed-ounzar" target="_blank">
+  <a href="https://www.linkedin.com/in/mohammed-ounzar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
