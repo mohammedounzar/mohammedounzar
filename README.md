@@ -1,5 +1,4 @@
-# 👋 Mohammed Ounzar  
-**Software Engineer · DevOps Engineer · Data Engineering Enthusiast**
+# 👋 Mohammed Ounzar
 
 <!-- ========= Animated SVG Hero ========= -->
 <div align="center">
@@ -12,7 +11,7 @@
 
 ## 📌 About Me
 I’m **Mohammed Ounzar**, a Software Engineering student at **ENSIAS (Morocco)**, currently studying at **ENSIIE (France)**.  
-I build systems at the intersection of **Software Engineering, DevOps, and Data/AI**.
+I build systems at the intersection of **Software Engineering, DevOps, and Data/AI** (and obsessed with automation).
 
 I enjoy:
 - Automating engineering workflows  
@@ -23,8 +22,6 @@ I enjoy:
 I'm actively looking for a **PFE internship (starting February)** in **Software Engineering, DevOps, or Data Engineering**.
 
 ---
-
-## 🧰 Tech Stack
 
 ## 🧰 Tech Stack
 
@@ -116,7 +113,7 @@ I'm actively looking for a **PFE internship (starting February)** in **Software 
 
 ### 🔹 **HR Application with CV Analysis (Ollama)**
 - Upload CVs + job descriptions → system extracts & analyzes fit  
-- RAG + LLM integration using Ollama  
+- LLM integration using Ollama  
 - Microservices backend with Spring Boot & Python  
 - Dockerized + deployed with Jenkins/Kubernetes  
 
