@@ -6,14 +6,11 @@ Welcome to my GitHub! I’m a passionate engineer who loves building scalable sy
 
 ---
 
-## ✨ Animated Overview of My Roles
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96F7&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Junior+Backend+Developer;Data+Engineering+Enthusiast;Always+learning+new+things)](https://git.io/typing-svg)
 
-```
-Software Engineer  --->  DevOps Engineer  --->  Data Engineering Enthusiast  --->  Constant Learner
-      |                    |                         |                            |
-   Building           Automating               Pipelines, ML,               Certifications,
-   Applications        Deployments              Big Data                    Research, Projects
-```
+</div>
 
 *(Imagine this as a smooth animation sliding through each role — someday I’ll implement it as SVG ✨)*
 
